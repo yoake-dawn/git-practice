@@ -2,5 +2,5 @@
 このリポジトリはGit動画講座用です．
 
 ローカルリポジトリで変更
-rebase-practiceブランチで更新(rebase用)
+mainブランチで更新(rebaseコンフリクト用)
 
